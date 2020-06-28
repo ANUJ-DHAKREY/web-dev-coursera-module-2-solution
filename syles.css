@@ -1,11 +1,11 @@
-{
+* {
     box-sizing: border-box;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
 }
 
 h1 {
-    color: blue;
-    font-size: 175%;
+    color: darkblue;
+    font-size: 190%;
     text-align: center;
 }
 
@@ -19,28 +19,28 @@ section {
 h2 {
     float: right;
     border:1px solid black;
-    color: lavender;
+    color: black;
     font-size: 125%;
     padding: 5px 20px 5px 20px;
     margin-top: 0;
     margin-bottom: 20px;
 }
 
-ul {
+p {
     clear: right;
     width: 90%;
 }
 
 #chicken {
-    background-color: brown;
+    background-color:purple;
 }
 
-#pork {
-    background-color: darkorchid;
+#beef {
+    background-color: sandybrown;
 }
 
-#steak {
-    background-color: forestgreen;
+#shushi {
+    background-color: greenyellow;
 }
 
 
